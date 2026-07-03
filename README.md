@@ -57,6 +57,7 @@ TeleDrivePro/
 ├── service-worker.js      # PWA service worker
 ├── style.css              # Application styles
 ├── TeleDrivePro.apk       # Android application
+├── LICENSE                # MIT License
 └── README.md
 ```
 
