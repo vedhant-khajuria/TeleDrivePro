@@ -65,7 +65,7 @@ TeleDrivePro/
 ### Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/TeleDrivePro.git
+git clone https://github.com/vedhant-khajuria/TeleDrivePro.git
 ```
 
 ### Open the project
