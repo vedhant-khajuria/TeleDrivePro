@@ -2,55 +2,67 @@
 
 <div align="center">
 
-### Unlimited Storage • No Login • Lightweight • Fast
+# 📦 Unlimited File Storage Made Simple
 
-Developed with ❤️ by **Vedhant Khajuria**
+**No Login • No Signup • Lightweight • Fast • PWA Ready**
+
+Developed by **Vedhant Khajuria**
+
+[🌐 Live Demo](https://teledrivepro.netlify.app)
 
 </div>
 
 ---
 
-## 📖 About
+## 📖 About TeleDrivePro
 
-**TeleDrivePro** is a lightweight file storage application that lets users upload, manage, and access their files without creating an account or signing in. Simply create a small local backend folder (around **2–3 MB**) on your device and start using the application.
+TeleDrivePro is a lightweight file storage application that allows users to upload, manage, and access their files without creating an account or signing in. The application requires only a small local backend folder (approximately **2–3 MB**) and provides a simple, fast, and user-friendly experience.
 
-The project is designed to be simple, fast, and easy to use while requiring minimal local storage.
+Built using modern web technologies, TeleDrivePro also works as a Progressive Web App (PWA), allowing installation on supported devices for a native app-like experience.
 
 ---
 
 ## ✨ Features
 
-- 🚀 No Login or Signup
-- 📂 Unlimited File Storage
-- ⚡ Fast Upload & Download
-- 💾 Lightweight Backend Folder (~2–3 MB)
-- 📱 Responsive Interface
-- 🔒 Simple & Easy to Use
-- 📁 File Management
-- 🌐 Browser Based
-- 📦 Progressive Web App (PWA)
-- 📲 Android APK Included
+- 🚀 No Login or Signup Required
+- 📂 Easy File Upload & Management
+- ⚡ Fast Performance
+- 💾 Lightweight Local Backend (~2–3 MB)
+- 📱 Responsive Design
+- 🌐 Progressive Web App (PWA)
+- 📥 Easy Installation
+- 🔒 Simple User Experience
+- 📦 Android APK Included
+- 🎨 Modern & Clean Interface
+
+---
+
+# 🌐 Live Preview
+
+Visit the live website:
+
+### 👉 https://teledrivepro.netlify.app
 
 ---
 
 ## 📁 Project Structure
 
-```
+```text
 TeleDrivePro/
 │
-├── .agents/               # Project agent configuration
+├── .agents/               # Project configuration
 ├── .git/                  # Git repository
-├── app.js                 # Main application logic
-├── index.html             # Main web page
+├── app.js                 # Main JavaScript logic
+├── index.html             # Main webpage
 ├── service-worker.js      # PWA service worker
-├── style.css              # Stylesheet
+├── style.css              # Application styles
 ├── TeleDrivePro.apk       # Android application
 └── README.md
 ```
 
 ---
 
-## 🛠 Technologies Used
+## 🛠 Built With
 
 - HTML5
 - CSS3
@@ -60,67 +72,62 @@ TeleDrivePro/
 
 ---
 
-## 🚀 Installation
+## 🚀 Getting Started
 
-### Clone the repository
+### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/vedhant-khajuria/TeleDrivePro.git
+git clone https://github.com/YOUR_USERNAME/TeleDrivePro.git
 ```
 
-### Open the project
+### 2. Open the Project
+
+```bash
+cd TeleDrivePro
+```
+
+### 3. Run the Project
 
 Simply open **index.html** in your browser.
 
 or
 
-Run a local server using VS Code Live Server.
+Use **VS Code Live Server** for the best development experience.
 
 ---
 
-## 📱 Android App
+## 📱 Android Version
 
-The repository includes an Android application.
+The repository also includes the Android application.
 
-```
+```text
 TeleDrivePro.apk
 ```
 
-Install the APK on your Android device to use TeleDrivePro as a native application.
+Install the APK on your Android device and enjoy the application like a native app.
 
 ---
 
-## 🌟 Why TeleDrivePro?
+## 🌟 Why Choose TeleDrivePro?
 
-- No registration required
+- No account creation required
 - Lightweight setup
-- Fast performance
-- Clean interface
-- Works as a PWA
-- Android app available
-- Easy deployment
-- Beginner-friendly project
-
----
-
-## 📸 Screenshots
-
-Add screenshots here.
-
-```
-screenshots/home.png
-screenshots/dashboard.png
-screenshots/mobile.png
-```
+- Fast loading
+- Modern UI
+- Works offline after installation (PWA support)
+- Responsive on desktop and mobile
+- Easy to deploy
+- Beginner-friendly codebase
 
 ---
 
 ## 🤝 Contributing
 
-Contributions are always welcome.
+Contributions are always welcome!
 
-1. Fork the repository
-2. Create your feature branch
+1. Fork this repository
+
+2. Create a new branch
 
 ```bash
 git checkout -b feature-name
@@ -142,16 +149,15 @@ git push origin feature-name
 
 ---
 
-## 🐛 Report Bugs
+## 🐞 Bug Reports
 
-Found a bug?
-
-Open an Issue and include:
+If you discover a bug, please open an Issue and include:
 
 - Operating System
 - Browser
 - Steps to reproduce
-- Screenshots (if possible)
+- Expected behavior
+- Screenshots (if applicable)
 
 ---
 
@@ -163,24 +169,26 @@ Open an Issue and include:
 
 ---
 
-## ⭐ Support
+## ⭐ Support the Project
 
-If you found this project useful, please consider giving it a **⭐ Star** on GitHub.
+If you found TeleDrivePro useful, please consider giving this repository a **⭐ Star** on GitHub.
 
-It helps the project reach more developers.
+Your support helps the project grow and motivates future development.
 
 ---
 
-## 📄 License
+## 🙌 Acknowledgements
 
-This project is licensed under the **MIT License**.
+Thank you for checking out TeleDrivePro.
+
+If you have suggestions or ideas to improve the project, feel free to open an Issue or submit a Pull Request.
 
 ---
 
 <div align="center">
 
-### Made with ❤️ by Vedhant Khajuria
+## ❤️ Made with passion by Vedhant Khajuria
 
-**Thank you for visiting this repository!**
+**⭐ Don't forget to Star this repository! ⭐**
 
 </div>
